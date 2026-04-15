@@ -2,6 +2,7 @@
 
 A full-stack E-Commerce Web Application that allows users to browse products, manage cart items, and place orders seamlessly. This project demonstrates modern web development practices with a focus on scalability, user experience, and performance.
 
+
 🚀 Features
 🛍️ Browse products with detailed descriptions
 🔍 Search and filter products
