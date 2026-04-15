@@ -1,4 +1,5 @@
 🛒 E-Commerce Web Application
+
 A full-stack E-Commerce Web Application that allows users to browse products, manage cart items, and place orders seamlessly. This project demonstrates modern web development practices with a focus on scalability, user experience, and performance.
 
 🚀 Features
@@ -70,7 +71,6 @@ Efficient database design for product and order management
 
 👨‍💻 Author
 Anurag Fengade
-
 💼 Java Full Stack Developer | Data Analyst
 🔗 LinkedIn: https://www.linkedin.com/in/anurag-fengade-910620255/
 💻 GitHub: https://github.com/AnuragFengade
