@@ -70,11 +70,17 @@ Efficient database design for product and order management
 📦 Order tracking system
 🧠 Recommendation system
 
+
 👨‍💻 Author
+
 Anurag Fengade
 💼 Java Full Stack Developer | Data Analyst
+
 🔗 LinkedIn: https://www.linkedin.com/in/anurag-fengade-910620255/
+
 💻 GitHub: https://github.com/AnuragFengade
+
 ⭐ Support
+
 If you like this project, please ⭐ the repository and share it!
 
