@@ -40,14 +40,23 @@ Git & GitHub
 Postman (API Testing)
 
 📂 Project Structure
+
 E-Commerce-main/
+
 │── src/
+
 │   ├── controller/
+
 │   ├── service/
+
 │   ├── repository/
+
 │   ├── model/
+
 │── frontend/
+
 │── database/
+
 │── README.md
 
 
