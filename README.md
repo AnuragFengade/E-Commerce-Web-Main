@@ -43,20 +43,29 @@ E-Commerce-main/
 
 
 ⚙️ Installation & Setup
+
 Clone the repository
+
 git clone https://github.com/your-username/E-Commerce-main.git
+
 Navigate to project folder
+
 cd E-Commerce-main
+
 Setup Database
+
 Create a MySQL database
+
 Import the provided SQL file
+
 Run Backend
+
 mvn spring-boot:run
+
 Run Frontend
+
 Open index.html in browser (or run using Live Server)
 
-📸 Screenshots
-Add your project screenshots here (Home Page, Cart, Checkout, etc.)
 
 🎯 Key Highlights
 Designed a user-friendly interface for smooth shopping experience
