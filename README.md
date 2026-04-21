@@ -4,13 +4,22 @@ A full-stack E-Commerce Web Application that allows users to browse products, ma
 
 
 🚀 Features
+
 🛍️ Browse products with detailed descriptions
+
 🔍 Search and filter products
+
 🛒 Add to Cart & Remove from Cart
+
 💳 Order placement functionality
+
 🔐 User authentication & authorization
+
 📦 Order management system
+
 📊 Admin dashboard (if implemented)
+
+
 🛠️ Tech Stack
 
 Frontend:
@@ -83,14 +92,20 @@ Efficient database design for product and order management
 
 
 👨‍💻 Author:-
+
 Anurag Fengade
+
 💼 Java Full Stack Developer | Data Analyst
+
 
 🔗 LinkedIn: https://www.linkedin.com/in/anurag-fengade-910620255/
 
+
 💻 GitHub: https://github.com/AnuragFengade
 
+
 ⭐ Support
+
 
 If you like this project, please ⭐ the repository and share it!
 
