@@ -41,6 +41,7 @@ E-Commerce-main/
 │── database/
 │── README.md
 
+
 ⚙️ Installation & Setup
 Clone the repository
 git clone https://github.com/your-username/E-Commerce-main.git
